@@ -32,4 +32,4 @@ To analyze cricket data of Asia Cup 2025 and present meaningful insights using v
 3. (Optional) Open .pbix file in Power BI Desktop for full interactivity  
 
 ## 👤 Author
-Sagar (Data Science Student)
+Atta Ullah Sagar (Data Science Student)
